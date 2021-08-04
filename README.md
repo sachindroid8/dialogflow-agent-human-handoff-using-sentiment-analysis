@@ -1,6 +1,8 @@
 # Dialogflow: Agent to Human Handoff Sample with Sentiment Analysis
 This project is part of the ultimate chatbot tutorial series from TECH WITH SACH(https://www.youtube.com/techwithsach) youtube channel. 
 
+**Follow the youtube tutorial to setup and configure properly.**
+
 This sample consists of a simple Dialogflow agent, a Node.js server, and a web
 interface that together demonstrate an approach for handling text-based conversations
 from a Dialogflow agent to a human operator. This also uses the Dialogflow Sentiment Analysis and makes the transition between the agent to human based on negative sentiment score. 
